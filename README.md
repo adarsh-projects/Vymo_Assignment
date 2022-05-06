@@ -3,7 +3,7 @@ I have created Restaurent Site were Merchant can Register.
 Merchant Have to write essential credentials to register(like name, phone no., location and website etc).
 Merchant can He's/She's credentials on Account tab.
 
-**To Run Application**
+**To Run Application**\n
 step1: create 2 angular Project 
         one for **merchant_register**
         second for **admin page**.
