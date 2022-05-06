@@ -1,5 +1,6 @@
 # Vymo_Assignment
 I have created Restaurent Site were Merchant can Register.
+--
 Merchant Have to write essential credentials to register(like name, phone no., location and website etc).
 Merchant can He's/She's credentials on Account tab.
 
